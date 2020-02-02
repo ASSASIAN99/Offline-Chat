@@ -1,1 +1,1 @@
-# CHAT
+# Java Based Chatting Applet.
